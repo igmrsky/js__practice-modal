@@ -1,1 +1,3 @@
-# js__practice-modal
+# Для удобства)
+
+https://igmrsky.github.io/js__practice-modal/
